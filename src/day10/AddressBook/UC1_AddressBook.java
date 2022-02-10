@@ -99,7 +99,7 @@ public class UC1_AddressBook {
     }
 
     public static void main(String[] args) {
-        UC1_AddressBook a = new UC1_AddressBook("riya","jadhav","hadapsar","pune","maharashtra",423345,1234567654,"riya@gmail.com") ;
+        UC1_AddressBook a = new UC1_AddressBook("priya","Ks","Davangere","Bng","Karnataka",577004,987654321,"priya@gmail.com") ;
         a.toString();
     }
 }
